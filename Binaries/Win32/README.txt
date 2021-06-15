@@ -1,0 +1,1 @@
+Built with Microsoft Visual Studio Community 2019 on Windows 10 x64
